@@ -1,0 +1,2 @@
+nohup: ignoring input
+Starting backup watcher: src='myfiles' dest='backups' interval=5s max=3
